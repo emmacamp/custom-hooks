@@ -1,5 +1,5 @@
 import { useReducer, useEffect } from "react";
-import { todoActions, todoReducer } from "../08-useReducer/todoReducer";
+import { todoActions, todoReducer } from "./todoReducer";
 
 const initialState = []
 
